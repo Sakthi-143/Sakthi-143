@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthi-143&label=Profile%20views&color=0e75b6&style=flat" alt="sakthi-143" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@msakthi20013" target="blank"><img src="https://img.shields.io/twitter/follow/@msakthi20013?logo=twitter&style=for-the-badge" alt="@msakthi20013" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@msakthi20013" target="blank"><img src="https://img.shields.io/twitter/follow/@msakthi20013?logo=twitter&style=for-the-badge" alt="@msakthi20013" width="200" height="40" /></a> </p>
 
 📊 As a data science professional, I specialize in:
    - Exploratory data analysis
