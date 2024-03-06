@@ -69,7 +69,7 @@
     </a>
 </div>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthi-143&show_icons=true&locale=en&layout=compact" alt="sakthi-143" width="400" height="400"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakthi-143&show_icons=true&locale=en" alt="sakthi-143" /></p>
 
