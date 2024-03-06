@@ -1,4 +1,4 @@
-[![MasterHead](https://www.uat.edu/media/data-science-banner.png)]
+![MasterHead](https://www.uat.edu/media/data-science-banner.png)
 <h1 align="center">Hi 👋, I'm SAKTHI M</h1>
 <h3 align="center">A passionate Data Science Professional from india</h3>
 <div style="float: right;">
