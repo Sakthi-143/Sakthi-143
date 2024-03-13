@@ -32,7 +32,7 @@
 -     Machine learning and data science
   
 - 🌱 I’m currently learning **AI,Tenserflow**
-- 👨‍💻 All of my projects are available at [sakthiprofile.netlify.app](sakthiprofile.netlify.app)
+- 👨‍💻 All of my projects are available at [sakthiprofile.netlify.app](https://sakthiprofile.netlify.app/)
 - 💬 Ask me about **Machine Learning , EDA ,Visualization**
 
 - 📫 How to reach me **msakthi20013@gmail.com**
