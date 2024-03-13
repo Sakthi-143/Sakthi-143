@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/@msakthi20013" target="blank"><img src="https://img.shields.io/twitter/follow/@msakthi20013?logo=twitter&style=for-the-badge" alt="@msakthi20013" width="200" height="40" /></a> </p>
 
 📊 As a data science professional, I specialize in:
-   - Exploratory data analysis
+   - Exploratory data analysis 
    - Machine learning modeling
    - Predictive analytics
    - Data visualization
