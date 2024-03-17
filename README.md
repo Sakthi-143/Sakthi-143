@@ -43,6 +43,9 @@
 📫 Feel free to reach out to me via email at msakthi20013@gmail.com or connect with me on LinkedIn www.linkedin.com/in/m-sakthi to discuss all things data science!
 
 Let's turn data into insights together! 🚀
+
+
+
 Happy Coding! 🚀
 
 <h2 align="left">Connect with me:</h2>
