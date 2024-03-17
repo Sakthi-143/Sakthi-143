@@ -95,7 +95,7 @@ Let's turn data into insights together! 🚀
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
     </a>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthi-143&show_icons=true&locale=en&layout=compact" alt="sakthi-143" width="200" height="200"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakthi-143&show_icons=true&locale=en&layout=compact" alt="sakthi-143" width="250" height="250"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakthi-143&show_icons=true&locale=en" alt="sakthi-143" /></p>
 
