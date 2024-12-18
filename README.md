@@ -1,5 +1,5 @@
 ![MasterHead](https://www.uat.edu/media/data-science-banner.png)
-<h1 align="center">Hi 👋, I'm SAKTHI M</h1>
+<h1 align="center">Hi 👋, I'm SAKTHI MUTHUSAMY</h1>
 <h3 align="center"> A passionate Data Science Professional from india </h3>  
 <h3 align="center"> Portfolio : https://sakthiprofile.netlify.app/ </h3>
 <h3 align="center">As a data science enthusiast with a B.E in computer science and a certificate from ExcelR, I have acquired various skills and techniques in machine learning, statistics, python, tableau, and data analysis. I have demonstrated my ability to apply data-driven solutions to different business problems and deliver actionable insights through my projects and certifications. I am looking for a challenging and rewarding role where I can utilize my skills and knowledge in the field of data science.</h3>
